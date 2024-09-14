@@ -1,0 +1,6 @@
+pyproject.toml
+dspy_test.egg-info/PKG-INFO
+dspy_test.egg-info/SOURCES.txt
+dspy_test.egg-info/dependency_links.txt
+dspy_test.egg-info/requires.txt
+dspy_test.egg-info/top_level.txt

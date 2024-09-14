@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: dspy-test
+Version: 0.1.0
+Summary: DSPy
+Requires-Python: >=3.11
+Requires-Dist: dspy
